@@ -1,1 +1,2 @@
 # U3dCallAndroid
+学习Unity3D与Android交互过程中尝试做的小demo。
